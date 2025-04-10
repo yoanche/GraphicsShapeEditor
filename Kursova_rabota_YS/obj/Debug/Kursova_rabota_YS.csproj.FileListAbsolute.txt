@@ -1,0 +1,13 @@
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\bin\Debug\Kursova_rabota_YS.exe.config
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\bin\Debug\Kursova_rabota_YS.exe
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\bin\Debug\Kursova_rabota_YS.pdb
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.csproj.AssemblyReference.cache
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.Form1.resources
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.CircleForm.resources
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.TriangleForm.resources
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.SquareForm.resources
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.Properties.Resources.resources
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.csproj.GenerateResource.cache
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.csproj.CoreCompileInputs.cache
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.exe
+C:\Users\yoana\OneDrive\Работен плот\Kursova_rabota_YS\Kursova_rabota_YS\obj\Debug\Kursova_rabota_YS.pdb
