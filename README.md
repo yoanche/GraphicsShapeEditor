@@ -1,45 +1,54 @@
-# 🎨 Приложение за работа с графични фигури
+🎨 Graphical Shapes Editor
+A Windows Forms-based graphical application that allows users to create, color, and manipulate various shapes on a drawing canvas.
 
-Приложението предоставя графичен потребителски интерфейс, създаден с **Windows Forms**, чрез който потребителят може да създава, оцветява и манипулира различни фигури върху рисувателно поле.
+🧩 Features
+✅ Shape Creation
+Supports creating the following shapes:
 
-## 🧩 Функционалности
+Circle
 
-- ✅ Създаване на различни фигури:
-  - Окръжност (Circle)
-  - Квадрат (Square)
-  - Триъгълник (Triangle)
+Square
 
-- ✏️ Преди създаване:
-  - Въвеждане на параметри (напр. радиус, страна и др.)
-  - Автоматично изчисляване и визуализиране на лицето на фигурата
+Triangle
 
-- 🖌️ Взаимодействия с фигурите:
-  - Избор на цвят
-  - Начертаване върху рисувателното поле
-  - Оцветяване
-  - Изтриване
-  - Преместване
+✏️ Before Drawing
+Input parameters (e.g., radius, side length, etc.)
 
-- ↩️ История на действията:
-  - Undo
-  - Redo
+Automatic calculation and display of the shape’s area
 
-## 🖼️ Интерфейс
+🖌️ Interaction with Shapes
+Color selection
 
-Главният прозорец съдържа:
-- Рисувателно поле
-- Бутон за избор на цвят
-- Бутони за избор на фигура: Circle, Square, Triangle
-- Бутони: Fill, Clear, Move, Undo, Redo, Save
-- Въвеждане на данни за фигурата преди нейното начертаване
+Drawing on the canvas
 
-## 🚀 Стартиране на проекта
+Filling with color
 
-1. Отвори проекта чрез файла `Kursova_rabota_YS.sln` във **Visual Studio**
-2. Стартирай с бутона **Start** или натисни **F5**
+Deletion
 
-## 🛠️ Използвани технологии
+Moving shapes around the canvas
 
-- Език: C#
-- Среда: Visual Studio
-- UI: Windows Forms
+↩️ Action History
+Undo previous actions
+
+Redo undone actions
+
+🖼️ User Interface
+The main window includes:
+
+A drawing canvas
+
+Color selection button
+
+Buttons for shape selection: Circle, Square, Triangle
+
+Action buttons: Fill, Clear, Move, Undo, Redo, Save
+
+Input fields for specifying shape parameters before drawing
+
+🛠️ Technologies Used
+Language: C#
+
+Development Environment: Visual Studio
+
+UI Framework: Windows Forms
+
